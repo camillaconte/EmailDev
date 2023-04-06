@@ -6,8 +6,7 @@ target/
 
 ### email info ###
 src/main/java/co/develhope/email1/tools/ConnectionTools.java
-
-
+src/main/resources/application.yml
 
 ### STS ###
 .apt_generated
